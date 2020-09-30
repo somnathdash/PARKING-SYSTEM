@@ -30,7 +30,7 @@ void main(){
 			case 6 :
 				exit(0);
 			
-			default : printf("Invalid Choice");	
+			default : printf(" Choice invalid");	
 		}
 	}
 }
